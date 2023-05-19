@@ -1,9 +1,11 @@
 
 const Navbar = () => {
   return (
-    <div>
-    
-    </div>
+    <nav className="nav">
+        <div className="nav__menu">
+            <ul className="nav__list"></ul>
+        </div>
+    </nav>
   )
 }
 
