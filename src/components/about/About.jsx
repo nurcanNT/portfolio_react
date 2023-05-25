@@ -1,6 +1,7 @@
 //import React from 'react';
 import "./about.css";
 import Image from "../../assets/avatar-2.svg";
+import AboutBox from "./AboutBox";
 
 const About = () => {
   return (
@@ -46,13 +47,13 @@ const About = () => {
               </div>
 
               <div className="skills__bar">
-                <span className="skills__percentage"></span>
+                <span className="skills__percentage photography"></span>
               </div>
             </div>
           </div>
         </div>
       </div>
-
+    <AboutBox />
    </section>
   )
 }
