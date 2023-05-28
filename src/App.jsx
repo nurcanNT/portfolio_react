@@ -2,7 +2,7 @@
 import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
-import About from './pages/about/About';
+import About from './components/about/About';
 import Portfolio from './components/portfolio/Portfolio';
 import Resume from './components/resume/Resume';
 import Services from './components/services/Services';

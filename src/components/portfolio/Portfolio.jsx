@@ -4,13 +4,14 @@ import Menu from './Menu';
 
 const Portfolio = () => {
     const [items, setItems] = useState(Menu);
+    
     const filterItem = (categoryItem) => {
         const updatedItems = Menu.filter((curElem) => {
-            return curElem.category == categoryItem;
-        })
-    }
+            return curElem.category === categoryItem;
+        });
 
-    setItems(updatedItems);
+        setItems(updatedItems);
+    }
 
     return (
         <section className="work container section" id="work">

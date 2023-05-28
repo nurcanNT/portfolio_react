@@ -1,8 +1,5 @@
 //import React from 'react'
 import "./pricing.css";
-import Image1 from "../../assets/price-1.svg";
-import Image2 from "../../assets/price-1.svg";
-import Image3 from "../../assets/price-1.svg";
 
 const Pricing = () => {
   return (
@@ -11,7 +8,7 @@ const Pricing = () => {
 
         <div className="pricing__container grid">
             <div className="pricing__item">
-                <img src={Image1} alt="" className="pricing__img" />
+                <img src="" alt="" className="pricing__img" />
                 <h3 className="pricing__plan">Basic</h3>
                 <p className="pricing__title">A simple option but powerful to manage your business</p>
                 <p className="pricing__support">Email support</p>
@@ -23,7 +20,7 @@ const Pricing = () => {
 
             <div className="pricing__item best">
                 <span className="badge">Recommended</span>
-                <img src={Image2} alt="" className="pricing__img" />
+                <img src="" alt="" className="pricing__img" />
                 <h3 className="pricing__plan">Premium</h3>
                 <p className="pricing__title">Unlimited product including app integration and more features</p>
                 <p className="pricing__support">Mon-Fri support</p>
@@ -34,7 +31,7 @@ const Pricing = () => {
             </div>
 
             <div className="pricing__item">
-                <img src={Image3} alt="" className="pricing__img" />
+                <img src="" alt="" className="pricing__img" />
                 <h3 className="pricing__plan">Ultimate</h3>
                 <p className="pricing__title">A wise option for large companies and individuals</p>
                 <p className="pricing__support">24/7 support</p>

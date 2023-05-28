@@ -1,9 +1,5 @@
 //import React from 'react'
 import "./testimoniols.css";
-import Image1 from "../../assets/avatar-1.svg";
-import Image2 from "../../assets/avatar-1.svg";
-import Image3 from "../../assets/avatar-1.svg";
-import Image4 from "../../assets/avatar-1.svg";
 import { Pagination } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -16,28 +12,24 @@ import 'swiper/css/pagination';
 const data = [
     {
         id:1,
-        Image: Image1,
         title:"John Doe",
         subtitle: "Product designer at Dribble",
         comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",
     },
     {
         id:2,
-        Image: Image2,
         title:"John Doe",
         subtitle: "Product designer at Dribble",
         comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",
     },
     {
         id:3,
-        Image: Image3,
         title:"John Doe",
         subtitle: "Product designer at Dribble",
         comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",
     },
     {
         id:4,
-        Image: Image4,
         title:"John Doe",
         subtitle: "Product designer at Dribble",
         comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",

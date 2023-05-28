@@ -1,6 +1,5 @@
 // import React from 'react';
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg";
 import { useState } from "react";
 
 
@@ -10,7 +9,7 @@ const Sidebar = () => {
    <>
    <aside className={toggle ? "aside show-menu" : "aside"}>
     <a href="#home" className="nav__logo">
-        <img src={Logo} alt="" />
+        <img src="" alt="" />
     </a>
 
     <nav className="nav">
