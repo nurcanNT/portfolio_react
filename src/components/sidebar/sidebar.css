@@ -11,6 +11,7 @@
     flex-direction: column;
     justify-content: space-between;
     z-index: 10;
+    transition: .3s;
 }
 
 .nav__list {
@@ -46,10 +47,11 @@
     width: 45px;
     background-color: var(--body-color);
     border: 1px solid #e8dfec;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     z-index: 1;
+    transition: .3s;
 }
 
 @media screen and (max-width: 1024px) {
@@ -57,7 +59,15 @@
         left: -110px;
     }
 
-    .home__social-link {
-        font-size: 1.125rem;
+    .nav__toggle {
+        display: flex;
+    }
+
+    .nav__toggle-open {
+        left: 140px;
+    }
+
+    .show-menu {
+
     }
 }
