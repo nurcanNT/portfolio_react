@@ -25,7 +25,8 @@
 .home__socials {
     display: flex;
     column-gap: 1.75rem;
-    margin: 1.5rem 0;
+    margin: 1.5rem;
+    margin-left: 2.3rem;
 }
 
 .home__social-link {
