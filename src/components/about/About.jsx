@@ -15,7 +15,7 @@ const About = () => {
             <p className="about__description">Aktif olarak JavaScript ve React teknolojileri üzerine çalışmaktayım. Gerçekleştirdiğim projelerde ve iş
 deneyimimde HTML, CSS, JavaScript, React kodlama, responsive tasarımların en iyi şekilde görünmelerini
 sağlamak ve teknik destek gibi birçok farklı alanda katkı sağladım. Kendimi geliştirmeye devam ederken
-öğrendiklerimden başkalarının da faydalanması için Medium da içerikler, Github\`da ise projeler üretmekteyim.
+öğrendiklerimden başkalarının da faydalanması için Medium da içerikler, Github`da ise projeler üretmekteyim.
 Mesleki hayatımda yoluma profesyonel bir ekiple birlikte, kendini geliştirmiş bir yazılımcı kimliği kazanarak
 Full Stack olarak devam etmeyi planlıyorum.
 </p>
