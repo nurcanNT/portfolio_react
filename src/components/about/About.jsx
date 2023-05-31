@@ -12,7 +12,13 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et voluptates perferendis sit non asperiores officiis totam eligendi reiciendis assumenda eius architecto sed consectetur explicabo esse, iste provident rerum nihil porro. Rerum iste consequuntur itaque quae magni nulla, ab sapiente neque quos minima tenetur saepe, molestias earum? Consequatur unde, sint laudantium eaque, sequi, asperiores cupiditate maxime repellat minima autem dolorem nobis.</p>
+            <p className="about__description">Aktif olarak JavaScript ve React teknolojileri üzerine çalışmaktayım. Gerçekleştirdiğim projelerde ve iş
+deneyimimde HTML, CSS, JavaScript, React kodlama, responsive tasarımların en iyi şekilde görünmelerini
+sağlamak ve teknik destek gibi birçok farklı alanda katkı sağladım. Kendimi geliştirmeye devam ederken
+öğrendiklerimden başkalarının da faydalanması için Medium da içerikler, Github\`da ise projeler üretmekteyim.
+Mesleki hayatımda yoluma profesyonel bir ekiple birlikte, kendini geliştirmiş bir yazılımcı kimliği kazanarak
+Full Stack olarak devam etmeyi planlıyorum.
+</p>
             <a href="" className="btn">Download CV</a>
           </div>
 
