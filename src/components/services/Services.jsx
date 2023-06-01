@@ -4,25 +4,26 @@
 const data = [
     {
         id: 1,
-        title: "UI/UX design",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et porro, officia ipsam eveniet tempora unde adipisci dolore",
+        title: "HTML",
     },
     {
         id: 2,
-        title: "Web Development",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et porro, officia ipsam eveniet tempora unde adipisci dolore",
+        title: "CSS",
     },
     {
         id: 3,
-        title: "Photography",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et porro, officia ipsam eveniet tempora unde adipisci dolore",
+        title: "JavaScript",
+    },
+    {
+        id: 4,
+        title: "React",
     },
 ]
 
 const Services = () => {
   return (
     <section className="services container section" id="services">
-        <h2 className="section__title">Services</h2>
+        <h2 className="section__title">Skills</h2>
 
         <div className="services__container grid">
         {data.map(({ id, title, description }) => (
