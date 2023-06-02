@@ -7,7 +7,7 @@ const AboutBox = () => {
         <i className="about__icon fa-brands fa-html5"></i>
 
         <div>
-            <h3 className="about__title">198</h3>
+            <h3 className="about__title">%90</h3>
             <span className="about__subtitle">HTML</span>
         </div>
     </div>
@@ -16,7 +16,7 @@ const AboutBox = () => {
     <i className="about__icon fa-brands fa-square-js"></i>
 
         <div>
-            <h3 className="about__title">5670</h3>
+            <h3 className="about__title">%50</h3>
             <span className="about__subtitle">JavaScript</span>
         </div>
     </div>
@@ -25,7 +25,7 @@ const AboutBox = () => {
     <i className="about__icon fa-brands fa-react"></i>
 
         <div>
-            <h3 className="about__title">427</h3>
+            <h3 className="about__title">%40</h3>
             <span className="about__subtitle">React</span>
         </div>
     </div>
@@ -34,7 +34,7 @@ const AboutBox = () => {
         <i className="about__icon fa-brands fa-bootstrap"></i>
 
         <div>
-            <h3 className="about__title">35</h3>
+            <h3 className="about__title">%75</h3>
             <span className="about__subtitle">Bootstrap</span>
         </div>
     </div>
