@@ -64,7 +64,7 @@
 }
 
 .ui__design {
-    width: 90%;
+    width: 60%;
     background-color: rgb(255, 76, 96);
 }
 
@@ -92,6 +92,12 @@
 .about__title {
     font-size: 1.875rem;
 }
+
+.development {
+    width: 90%;
+    background-color: rgb(255, 238, 0);
+}
+
 
 
 @media screen and (max-width: 1024px) {
