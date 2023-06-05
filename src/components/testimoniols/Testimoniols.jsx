@@ -18,21 +18,21 @@ const data = [
     },
     {
         id:2,
-        title:"John Doe",
-        subtitle: "Product designer at Dribble",
-        comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",
+        title:"jQuery Event Property",
+        subtitle: "JavsaScript / jQuery",
+        comment: "jQuery event metotlarını, bir olayın gerçekleşmesi için olaydan önce kullanırız. jQuery event propertylerini ise olay hakkında bilgi vermesi için olaydan sonra kullanırız. Event propertylerini incelerken bu aradaki farkı ve jQuery event propertylerini daha iyi kavracağız. ",
     },
     {
         id:3,
-        title:"John Doe",
-        subtitle: "Product designer at Dribble",
-        comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",
+        title:"Bootstrap 4'te Flexbox Nedir?",
+        subtitle: "Bootstrap",
+        comment: "Flexbox sitelerimizin bir planıdır. Flexbox modeli, web sitemizin içeriğini düzenlememizi sağlar. Tüm modern tarayıcılar tarafından desteklenir ve doğru çalışması için önce bir flex container tanımlamak gerekir.",
     },
     {
         id:4,
-        title:"John Doe",
-        subtitle: "Product designer at Dribble",
-        comment: "I enjoy working with the theme and learn so much. You guys make the process fun and interestingy. Good luck!",
+        title:"JavaScript Fonksiyon Kullanımı",
+        subtitle: "JavaScript",
+        comment: "Fonksiyonlar, bir veya daha fazla işlevi yerine getirmesi için yazılmış olan kod bloklarıdır. Bir işlemi yapan fonksiyon yazılır ve bu işlem çalışması gerektiğinde sadece yazılan fonksiyon çağrılır. Defalara aynı kodu yazmamıza gerek kalmadan kod bloğumuz çalışır. Ve bu yöntem bize kod tasarrufu sağladığı gibi zaman tasarrufu da sağlamış olur.",
     },
 ]
 
