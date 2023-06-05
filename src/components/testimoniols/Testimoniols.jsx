@@ -8,12 +8,13 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 
+
 const data = [
     {
         id:1,
         title:"React Skeleton Nedir ve Nasıl Kullanılır?",
         subtitle: "React JS",
-        comment: "React Skeleton tekniğini, kullanıcılara daha iyi bir deneyim sunmak için kullanılmalıdır. Buna birkaç neden sıralayarak daha iyi kavrayabiliriz. <button onClick={redirectToPage}>Hedef Sayfaya Git</button> ",
+        comment: "React Skeleton tekniğini, kullanıcılara daha iyi bir deneyim sunmak için kullanılmalıdır. Buna birkaç neden sıralayarak daha iyi kavrayabiliriz. ",
     },
     {
         id:2,
@@ -36,7 +37,6 @@ const data = [
 ]
 
 const Testimoniols = () => {
-   
   return (
     <section className="testimonials container section">
         <h2 className="section__title">Content & Topics</h2>
