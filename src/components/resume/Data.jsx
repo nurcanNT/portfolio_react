@@ -6,25 +6,9 @@ const Data = [
         id:4,
         category: "education",
         icon: "icon-graduation",
-        year: "2017 - present",
-        title: "Designer",
-        desc: "Lorem ipsum color sit amet quo ei simul congue exerci ad nec admodum perfecto",
-    },
-    {
-        id:5,
-        category: "education",
-        icon: "icon-graduation",
-        year: "2019 - 2020",
+        year: "10.2020 - 12.2020",
         title: "Frontend Developer",
-        desc: "Lorem ipsum color sit amet quo ei simul congue exerci ad nec admodum perfecto",
-    },
-    {
-        id:6,
-        category: "experience",
-        icon: "icon-briefcase",
-        year: "2009 - 2013",
-        title: "Backend Developer",
-        desc: "Lorem ipsum color sit amet quo ei simul congue exerci ad nec admodum perfecto",
+        desc: "HTML, CSS, JavaScript ile geliştirme yapılması, Tasarımsal hataların çözülmesi, Responsive konusunda çalışmaların yapılması, Müşteriden gelen feedbacklerin karşılanması",
     },
 ];
 export default Data
