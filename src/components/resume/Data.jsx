@@ -1,24 +1,25 @@
 //import React from 'react'
 
 const Data = [
+    {
+        id:4,
+        category: "education",
+        icon: "icon-graduation",
+        year: "2023 - halen",
+        title: "Web Developer",
+        title2: "Bionluk",
+        desc: "JavaScript ve React teknolojisi ile geliştirme",
+    },
     
     {
         id:4,
         category: "education",
         icon: "icon-graduation",
-        year: "10.2020 - 12.2020",
+        year: "10.2022 - 12.2022",
         title: "Frontend Developer",
-        title2: "Frontend Developer",
+        title2: "Segmentify",
         desc: "HTML, CSS, JavaScript ile geliştirme yapılması, Tasarımsal hataların çözülmesi, Responsive konusunda çalışmaların yapılması, Müşteriden gelen feedbacklerin karşılanması",
     },
-    {
-        id:4,
-        category: "education",
-        icon: "icon-graduation",
-        year: "10.2020 - 12.2020",
-        title: "Web Developer",
-        title2: "Web Developer",
-        desc: "JavaScript ve React teknolojisi ile geliştirme",
-    },
+    
 ];
 export default Data

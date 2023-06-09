@@ -2,6 +2,8 @@
 
 const AboutBox = () => {
   return (
+    <section className="services container section" id="services">
+    <h2 className="section__title">Skills</h2>
    <div className="about__boxes grid">
     <div className="about__box">
         <i className="about__icon fa-brands fa-html5"></i>
@@ -39,6 +41,7 @@ const AboutBox = () => {
         </div>
     </div>
    </div>
+   </section>
   )
 }
 

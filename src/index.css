@@ -145,6 +145,10 @@
     font-weight: var(--font-bold);
  }
 
+ .section__title{
+   margin-bottom: 20px;
+ }
+
  @keyframes button-push {
     50% {
         transform: scale(0.8);
