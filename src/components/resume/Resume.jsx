@@ -17,6 +17,7 @@ const Resume = () => {
                         key={id} 
                         icon={val.icon} 
                         title= {val.title} 
+                        title2= {val.title2} 
                         year={val.year} 
                         desc={val.desc}
                         />
@@ -25,21 +26,7 @@ const Resume = () => {
             })}
         </div>
 
-        <div className="timeline grid">
-            {Data.map((val, index) => {
-                if (val.category === "education") {
-                    return (
-                        <Card 
-                        key={index} 
-                        icon={val.icon} 
-                        title= {val.title} 
-                        year={val.year} 
-                        desc={val.desc}
-                        />
-                    )
-                }
-            })}
-        </div>
+        
 
       </div>
     </section>

@@ -8,6 +8,7 @@ const Data = [
         icon: "icon-graduation",
         year: "10.2020 - 12.2020",
         title: "Frontend Developer",
+        title2: "Frontend Developer",
         desc: "HTML, CSS, JavaScript ile geliştirme yapılması, Tasarımsal hataların çözülmesi, Responsive konusunda çalışmaların yapılması, Müşteriden gelen feedbacklerin karşılanması",
     },
     {
@@ -16,6 +17,7 @@ const Data = [
         icon: "icon-graduation",
         year: "10.2020 - 12.2020",
         title: "Web Developer",
+        title2: "Web Developer",
         desc: "JavaScript ve React teknolojisi ile geliştirme",
     },
 ];
