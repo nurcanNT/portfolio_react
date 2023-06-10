@@ -4,33 +4,28 @@
 const Menu = [
     {
         id: 1,
-        title: "Project Manegement Illustration",
-        category: "Design",
+        title: "Talk Shoes",
+        category: "E-commerce",
     },
     {
         id: 2,
-        title: "Guest App Walkthrough Screens",
-        category: "Art",
+        title: "Nirvanna",
+        category: "E-commerce",
     },
     {
         id: 3,
-        title: "Delivery App Wireframe",
-        category: "Branding",
+        title: "Latest Earthquake News",
+        category: "JavaScript",
     },
     {
         id: 4,
-        title: "Onboarding Motivation",
-        category: "Design",
+        title: "Social Media Clone",
+        category: "JavaScipt",
     },
     {
         id: 5,
-        title: "iMac Mockup Design",
-        category: "Creative",
-    },
-    {
-        id: 6,
-        title: "Project Manegement Illustration",
-        category: "Art",
+        title: "New Action Games",
+        category: "Game",
     },
 ]
 
