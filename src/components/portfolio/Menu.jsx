@@ -1,5 +1,5 @@
 //import React from 'react'
-
+import Work1 from '../../assets/nirvanna.png';
 
 const Menu = [
     {
@@ -24,6 +24,7 @@ const Menu = [
     },
     {
         id: 5,
+        image: Work1,
         title: "New Action Games",
         category: "Game",
     },
