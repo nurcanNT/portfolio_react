@@ -1,10 +1,12 @@
 //import React from 'react'
 import Work1 from '../../assets/nirvanna.png';
+import Work2 from '../../assets/talkshoes.png';
 
 const Menu = [
     {
         id: 1,
         title: "Talk Shoes",
+        image: Work2,
         category: "E-commerce",
     },
     {
