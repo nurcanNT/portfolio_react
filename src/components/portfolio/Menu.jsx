@@ -42,6 +42,13 @@ const Menu = [
         title: "New Action Games",
         category: "Game",
     },
+     {
+        id: 7,
+        image: Work3,
+        title: "New Action Games",
+        category: "Game",
+    },
+
 ]
 
 export default Menu
