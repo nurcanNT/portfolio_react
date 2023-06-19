@@ -25,9 +25,6 @@ const Resume = () => {
                 }
             })}
         </div>
-
-        
-
       </div>
     </section>
   )

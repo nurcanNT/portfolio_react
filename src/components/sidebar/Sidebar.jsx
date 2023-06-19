@@ -1,6 +1,7 @@
 // import React from 'react';
 import "./sidebar.css";
 import { useState } from "react";
+import Img from '../../assets/flamingo.png';
 
 
 const Sidebar = () => {
@@ -9,7 +10,7 @@ const Sidebar = () => {
    <>
    <aside className={toggle ? "aside show-menu" : "aside"}>
     <a href="#home" className="nav__logo">
-        <img src="" alt="" />
+        <img src={Img} alt=""  style={{marginTop: "19rem"}} />
     </a>
 
     <nav className="nav">
