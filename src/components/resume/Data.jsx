@@ -4,7 +4,7 @@ const Data = [
     {
         id:4,
         category: "education",
-        icon: "icon-graduation",
+        icon: "icon-briefcase",
         year: "2023 - halen",
         title: "Web Developer",
         title2: "Bionluk",
@@ -14,7 +14,7 @@ const Data = [
     {
         id:4,
         category: "education",
-        icon: "icon-graduation",
+        icon: "icon-briefcase",
         year: "10.2022 - 12.2022",
         title: "Frontend Developer",
         title2: "Segmentify",

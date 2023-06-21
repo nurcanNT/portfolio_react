@@ -5,6 +5,7 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Portfolio from './components/portfolio/Portfolio';
 import Resume from './components/resume/Resume';
+import Education from './components/education/education';
 import Testimoniols from './components/testimoniols/Testimoniols';
 import Contact from './components/contact/Contact';
 
@@ -16,6 +17,7 @@ const App = () => {
      <Home />
      <About />
      <Resume />
+     <Education />
      <Portfolio />
      <Testimoniols />
      <Contact />
