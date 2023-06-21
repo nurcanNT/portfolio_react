@@ -10,7 +10,7 @@ const Sidebar = () => {
    <>
    <aside className={toggle ? "aside show-menu" : "aside"}>
     <a href="#home" className="nav__logo">
-        <img src={Img} alt=""  style={{marginTop: "19rem"}} />
+        <img src={Img} alt=""  style={{}} />
     </a>
 
     <nav className="nav">
@@ -56,7 +56,7 @@ const Sidebar = () => {
     </nav>
 
     <div className="nav__footer">
-        <span className="copyright">&copy; 2023 - 2024.</span>
+        <span className="copyright">&copy; 2022 - 2023.</span>
     </div>
    </aside>
 
