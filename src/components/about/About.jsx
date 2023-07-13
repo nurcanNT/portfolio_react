@@ -12,12 +12,12 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">Aktif olarak JavaScript ve React teknolojileri üzerine çalışmaktayım. Gerçekleştirdiğim projelerde ve iş
-deneyimimde HTML, CSS, JavaScript, React kodlama, responsive tasarımların en iyi şekilde görünmelerini
-sağlamak ve teknik destek gibi birçok farklı alanda katkı sağladım. Kendimi geliştirmeye devam ederken
-öğrendiklerimden başkalarının da faydalanması için Medium da içerikler, Github`da ise projeler üretmekteyim.
-Mesleki hayatımda yoluma profesyonel bir ekiple birlikte, kendini geliştirmiş bir yazılımcı kimliği kazanarak
-Full Stack olarak devam etmeyi planlıyorum.
+            <p className="about__description">I am actively working on JavaScript and React technologies. In my projects and work
+HTML, CSS, JavaScript, React coding, responsive designs look their best in my experience.
+I have contributed in many different areas such as providing technical support and providing technical support. As I continue to improve myself
+I produce content on Medium and projects on Github so that others can benefit from what I have learned.
+In my professional life, with a professional team, I gained the identity of a self-developed software developer.
+I plan to continue as Full Stack.
 </p>
             <a href="" className="btn">Download CV</a>
           </div>
