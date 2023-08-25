@@ -8,7 +8,7 @@ const Data = [
         year: "2023 - halen",
         title: "Web Developer",
         title2: "Bionluk",
-        desc: "JavaScript ve React teknolojisi ile geliştirme",
+        desc: "JavaScript ve React teknolojileri ile geliştirme yapmak, Tasarımsal değişikliklerin sağlanması",
     },
     
     {
